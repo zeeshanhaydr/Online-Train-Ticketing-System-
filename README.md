@@ -25,7 +25,7 @@ Logout
 
 Technologies Used:
 Backend: Java (Servlets, JSP), Hibernate ORM
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML
 Database: MySQL
 Server: GlassFish Server
 Build Tool: Apache Maven
